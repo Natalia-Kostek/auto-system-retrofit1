@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Oferta</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Oferta usług</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="oferta.html">Oferta</a>
+    <a href="kontakt.html">Kontakt</a>
+  </nav>
+</header>
+
+<section class="cards">
+  <div class="card">🔧 Montaż haków holowniczych</div>
+  <div class="card">⚡ Montaż wiązek elektrycznych</div>
+  <div class="card">💻 Kodowanie haków</div>
+  <div class="card">📡 Czujniki PDC przód/tył</div>
+  <div class="card">📷 Kamery cofania</div>
+  <div class="card">🎥 Wideorejestratory</div>
+</section>
+
+</body>
+</html>
